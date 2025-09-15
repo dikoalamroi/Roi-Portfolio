@@ -1,7 +1,7 @@
 # My WebPortfolio
 
 ##About Me
-Hi! I'm Roi Rosasiñas, an aspiring web designer/developer passionate about creating clean, user-friendly, and responsive websites. This portfolio showcases my projects, skills, and contact information.
+- Hi! I'm Roi Rosasiñas, an aspiring web designer/developer passionate about creating clean, user-friendly, and responsive websites. This portfolio showcases my projects, skills, and contact information.
 
 ##Sections
 - **About Me** – My background, education, and skills
