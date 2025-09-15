@@ -9,7 +9,7 @@
 - **Contact** – 09458742074
 
 ##Live Site
-Visit my portfolio here: (https://dikoalamroi.github.io/Roi-Portfolio/)
+- Visit my portfolio here: (https://dikoalamroi.github.io/Roi-Portfolio/)
 
 ##Technologies Used
 - HTML
